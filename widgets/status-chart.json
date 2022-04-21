@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b31ceaa870be18ba",
+  "name" : "should verify the ask question input",
+  "time" : {
+    "start" : 1650536051578,
+    "stop" : 1650536059733,
+    "duration" : 8155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

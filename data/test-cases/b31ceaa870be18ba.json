@@ -1,0 +1,62 @@
+{
+  "uid" : "b31ceaa870be18ba",
+  "name" : "should verify the ask question input",
+  "fullName" : "question title should be displayed at the Ask Free Question page.should verify the ask question input",
+  "historyId" : "9d9f9a1c02b8f20d1a99f3717d910745",
+  "time" : {
+    "start" : 1650536051578,
+    "stop" : 1650536059733,
+    "duration" : 8155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "question title should be displayed at the Ask Free Question page"
+  }, {
+    "name" : "testClass",
+    "value" : "question title should be displayed at the Ask Free Question page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the ask question input"
+  }, {
+    "name" : "package",
+    "value" : "question title should be displayed at the Ask Free Question page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b31ceaa870be18ba.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}
