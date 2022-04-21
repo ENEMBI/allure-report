@@ -1,10 +1,10 @@
 [ {
-  "uid" : "b31ceaa870be18ba",
+  "uid" : "7b0d0d54bdf730be",
   "name" : "should verify the ask question input",
   "time" : {
-    "start" : 1650536051578,
-    "stop" : 1650536059733,
-    "duration" : 8155
+    "start" : 1650536278371,
+    "stop" : 1650536288318,
+    "duration" : 9947
   },
   "status" : "passed",
   "severity" : "normal"
