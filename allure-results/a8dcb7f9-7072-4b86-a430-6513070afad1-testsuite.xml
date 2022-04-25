@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650538341467' stop='1650538349901'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650881196269' stop='1650881209800'>
     <name>question title should be displayed at the Ask Free Question page</name>
     <title>question title should be displayed at the Ask Free Question page</title>
     <test-cases>
-        <test-case start='1650538341468' status='passed' stop='1650538349900'>
+        <test-case start='1650881196269' status='passed' stop='1650881209799'>
             <name>should verify the ask question input</name>
             <title>should verify the ask question input</title>
             <labels>
